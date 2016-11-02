@@ -8,7 +8,7 @@ Our curriculum is subject to change, but is broadly as follows.
 |Week 2|Test-driven development|
 |Week 3|Web APIs|
 |Week 4|Node.js|
-|Week 5|Hapi|
+|Week 5|hapi|
 |Week 6|Databases I|
 |Week 7|Databases II|
 |Week 8|Authentication, Authorisation & security|
