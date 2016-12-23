@@ -16,7 +16,7 @@ ELIGIBILITY
 
 If you are over the age of 18 and can legally enter Israel, you are eligible to apply for our Nazareth programme. 
 
-We welcome international applicants who commit to spending at least six months in Nazareth. Please note that students coming from outside Israel will not receive any financial support during the programme.
+We welcome international applicants who commit to spending three months in Nazareth and three months in either London or Nazareth. Please note that students coming from outside Israel will not receive any financial support during the programme.
 
 Founders & Coders has no academic requirements. We find that successful students are self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
