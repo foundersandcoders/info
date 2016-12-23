@@ -6,7 +6,7 @@ Founders & Coders London is located at 14 Palmers Road, E2 OSY, in Bethnal Green
 
 HOURS
 
-Our London programme runs Monday through Friday from 10 AM to 7 PM.
+Our London programme runs Monday through Friday from 10am to 6pm.
 
 DATES
 
