@@ -4,16 +4,16 @@ Our curriculum is subject to change, but is broadly as follows.
 
 |||
 |----|----|
-|Week 1|Front-end, HTML, CSS, Git|
-|Week 2|Test-driven development|
+|Week 1|Toolkit - HTML, CSS, Git|
+|Week 2|Testing - Test driven development|
 |Week 3|Web APIs|
-|Week 4|Node.js|
-|Week 5|hapi|
-|Week 6|Databases I|
-|Week 7|Databases II|
-|Week 8|Authentication, Authorisation & security|
-|Week 9|UX/UI|
-|Week 10|Group project|
+|Week 4|Node core (part 1)|
+|Week 5|Node core (part 2)|
+|Week 6|Databases - PostgreSQL|
+|Week 7|Hapi - Templates|
+|Week 8|Hapi - Authentication|
+|Week 9|Redis - pub/sub and sockets|
+|Week 10|UX-UI|
 |Week 11|Reading week|
 |Week 12|Projects|
 |Week 13|Projects|
