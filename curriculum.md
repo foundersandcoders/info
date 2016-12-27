@@ -13,7 +13,7 @@ Our curriculum is subject to change, but is broadly as follows.
 |Week 7|Hapi - Templates|
 |Week 8|Hapi - Authentication|
 |Week 9|Redis - pub/sub and sockets|
-|Week 10|UX-UI|
+|Week 10|Final project|
 |Week 11|Reading week|
 |Week 12|Projects|
 |Week 13|Projects|
