@@ -4,7 +4,7 @@ QUESTIONS?
 
 Contact Esraa Jbara:
 
-Phone: 050-6610848
+Phone: +972 050-6610848
 
 Email: jbesraa@gmail.com
 
