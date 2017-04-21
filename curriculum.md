@@ -12,11 +12,5 @@ Our curriculum is subject to change, but is broadly as follows.
 | Week 6  | Databases - PostgreSQL |
 | Week 7  | Hapi - Templates |
 | Week 8  | Hapi - Authentication |
-| Week 9  | Redis - pub/sub and sockets |
-| Week 10 | Final project |
-| Week 11 | Reading week |
-| Week 12 | Projects |
-| Week 13 | Projects |
-| Week 14 | Projects |
-| Week 15 | Projects |
-| Week 16 | Projects |
+| Week 9 | Reading week |
+| Weeks 10-16 | Projects |
